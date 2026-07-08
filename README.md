@@ -50,7 +50,7 @@ Full-stack platform for postgraduate administration, course tracking, and facult
 
  🎮 Tic Tac Toe  
 React Native · Expo · Node · PostgreSQL · Supabase  
-Real-time multiplayer game (web + mobile). Refer xoet.com.
+Real-time multiplayer game (web + mobile). Refer https://xoethiopia.com/.
 
 ⚽ Fantasy Football player  
 Bare RN · Node · PostgreSQL · Supabase  
