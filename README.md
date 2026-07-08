@@ -61,5 +61,6 @@ Fantasy sports team management with live stats and roster building.
 
 Web Developer (part-time) – ICATT · 6 months 
 ✅ Developed and maintained five websites. Frontend & backend improvements, content updates, performance optimization.
+refer https://goteraenterprise.com/
 
 Icog labs (AI intern)
